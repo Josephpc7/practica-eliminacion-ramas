@@ -1,1 +1,2 @@
-print('3er archivo como el tercer planeta después del sol')
+print('En este archivo voy a crear una función que me permita sumar dos números')
+console.log('Esto es un error')
